@@ -1,9 +1,2 @@
-# NeuroStartUp
-Описание проекта
-
-# Домашние задания по курсу «Git: система контроля версий»
-
-- [Самостоятельное задание «Создание локального репозитория»](self/README.md)
-- [Работа с удаленным репозиторием через GitHub](remote/README.md)
-- [Командная работа в Git & GitHub](team/README.md) 
-- [Командная работа в Git & GitHub. Часть 2](team-2/README.md) 
+<details>
+    <summary>Текст для вставки в файл README.md</summary>
